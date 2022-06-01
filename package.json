@@ -1,6 +1,6 @@
 {
   "name": "serialize-error-browser",
-  "version": "1.0.0",
+  "version": "9.1.1",
   "description": "Serialize/deserialize an error into a plain object, for Browser and Node.js environment",
   "main": "./dist/cjs/index.js",
   "module": "./dist/mjs/index.js",
